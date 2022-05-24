@@ -1,0 +1,38 @@
+body {
+    background-color: #2D3142;
+    background-image: url('https://source.unsplash.com/1604x920/?.weather')
+}
+.title {
+    color: #b5e2ff;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+
+
+}
+
+.card{
+    justify-content: center;
+    color:#000000;
+    background-color:antiquewhite;
+    margin-top: 200px;
+    padding:3em;
+    text-align: center;
+}
+
+.card h1{
+    font-size: 50px;
+
+}
+.card h2{
+    font-size: 30px
+}
+.cityName{
+    font-size:30px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+.temp{
+    font-size:50px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+     
+}
